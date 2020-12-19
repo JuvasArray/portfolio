@@ -1,0 +1,11 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "May 2017 - Nov 2020",
+			"company" : "Upwork",
+			"website": "https://www.upwork.com/juvasarray",
+			"description" : "Freelancing as a Django & React web developper"
+		}
+	]
+}

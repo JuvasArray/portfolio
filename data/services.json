@@ -1,0 +1,15 @@
+{
+	"title" : "Services",
+	"services" : [
+		{
+			"icon" : "Django",
+			"title" : "Back end Web development",
+			"description" : "Developping"
+		},
+		{
+			"icon" : "React",
+			"title" : "Front end web development",
+			"description" : "Creating"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Django" : "90",
+		"Bootstrap" : "80",
+		"HTML5 & CSS3" : "80",
+		"JavaScript": 80,
+		"React": 70
+	}
+}

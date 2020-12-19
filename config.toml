@@ -1,0 +1,4 @@
+baseURL = "https://github.com/JuvasArray/juvasarray.github.io"
+languageCode = "en-us"
+title = "Juvas Freelancing"
+theme = "hugo-uilite"
